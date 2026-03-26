@@ -2,6 +2,8 @@
 
 このガイドに従えば、5 分でアプリを起動できます。
 
+> **🪟 Windows ユーザーの方へ**: 詳細な手順は [WINDOWS_GUIDE.md](WINDOWS_GUIDE.md) をご覧ください。
+
 ## インストール
 
 ### ステップ 1: Python 確認

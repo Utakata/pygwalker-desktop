@@ -41,6 +41,12 @@ CSV、Excel、Parquet ファイルを読み込み、ドラッグ&ドロップで
 - **Python 3.10 以上**
 - **Windows / macOS / Linux**
 
+### 📋 OS 別ガイド
+
+- **🪟 [Windows 環境ガイド](WINDOWS_GUIDE.md)** - Windows 10/11 での詳細手順
+- **🍎 macOS** - Coming soon
+- **🐧 Linux** - Coming soon
+
 ### インストール手順
 
 ```bash
@@ -320,6 +326,14 @@ pygwalker-desktop/
 - [ ] PyInstaller でスタンドアロン EXE 化
 - [ ] macOS アプリバンドル (.app)
 - [ ] Linux AppImage 作成
+
+## 参考資料
+
+| 資料 | 内容 |
+|------|------|
+| [WINDOWS_GUIDE.md](WINDOWS_GUIDE.md) | **Windows 10/11 での詳細なインストール・利用ガイド** |
+| [QUICKSTART.md](QUICKSTART.md) | 5 分で始められるクイックスタート |
+| [ARCHITECTURE.md](ARCHITECTURE.md) | システム設計・技術仕様書 |
 
 ## 開発
 
